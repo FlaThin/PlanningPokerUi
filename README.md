@@ -1,7 +1,7 @@
 # PlanningPokerUi
 
 
-## Startup project
+**Startup project**
 ```
 pnpm install
 ```
